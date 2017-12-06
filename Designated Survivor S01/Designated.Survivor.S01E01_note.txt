@@ -1,8 +1,3 @@
-https://raw.githubusercontent.com/nomadlife/subtitles/master/Designated%20Survivor%20S01/Designated.Survivor.S01E01.srt
-
-https://github.com/nomadlife/subtitles
-
-
 
 Episode 1
 
@@ -16,7 +11,7 @@ greatest hits : best of album
 Secretary:장관
 the Capitol : 국회의사당
 Hey, I'm slaving over here. : 내가 열심히 하고 있잖아.
-State of the Union: 연두교서.
+State of the Union: 연두교서. 연초 미대통령의 국정연설.
 dubstep track : A genre of electronic music 
 
 make us proud : used about someone who feels so proud that they think they are better than other people. 잘하고 와
@@ -30,4 +25,11 @@ Secretary of Housing and Urban Development. 주택도시개발 장관
 get someone wrong : 오해하다
 Chief of Staff : 참모장, 수석보좌관
 muddled : 뒤죽박죽인 
+hazard a guess : 조심스럽게 추측하다
+initiative : (법안)발의,개시,창시,창의
+ambassadorship : 대사직
+all the trimmings (그밖에) 모두.
+pleasure : 의지,기호,기쁨,즐거움
+pleasure of the President. : 대통령의 의지
+play someone's game : 장단을 맞추다
 

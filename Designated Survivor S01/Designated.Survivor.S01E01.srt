@@ -602,7 +602,7 @@ Come on. It's a big night for me.
 139
 00:05:56,454 --> 00:05:57,821
 I've got the State of the Union.
-State of the Union: 연두교서.
+State of the Union: 연두교서. 연초 미대통령의 국정연설.
 
 140
 00:05:57,856 --> 00:05:58,822
@@ -921,6 +921,7 @@ Shore, my Deputy Chief of Staff.
 00:08:07,118 --> 00:08:08,929
 I'm gonna hazard a guess
 and say you're not here
+hazard a guess : 조심스럽게 추측하다
 
 207
 00:08:08,953 --> 00:08:11,888
@@ -935,6 +936,7 @@ That is his call...
 00:08:13,958 --> 00:08:16,627
 if he'll put back in the
 Secretary's housing initiatives.
+initiative : (법안)발의,개시,창시,창의
 
 210
 00:08:16,661 --> 00:08:19,763
@@ -1006,11 +1008,13 @@ to make a change.
 00:08:56,668 --> 00:08:58,802
 He would like to
 offer you an ambassadorship
+ambassadorship : 대사직
 
 226
 00:08:58,836 --> 00:09:00,971
 to the International
 Civil Aviation Organization.
+국제민간항공기구
 
 227
 00:09:01,005 --> 00:09:03,240
@@ -1068,6 +1072,7 @@ the rank of ambassador
 00:09:32,303 --> 00:09:33,947
 with all the trimmings
 that go along with it.
+all the trimmings (그밖에) 모두.
 
 240
 00:09:33,971 --> 00:09:36,940
@@ -1094,6 +1099,7 @@ Well, now it's about the second term.
 00:09:45,183 --> 00:09:47,517
 And I serve at the pleasure
 of the President.
+pleasure of the President. : 대통령의 의지
 
 246
 00:09:47,552 --> 00:09:49,152
@@ -1152,6 +1158,7 @@ No, Alex. The real problem is
 00:10:14,178 --> 00:10:15,856
 I didn't play
 Richmond's game all the time.
+play someone's game : 장단을 맞추다
 
 259
 00:10:15,880 --> 00:10:17,047
@@ -1290,6 +1297,7 @@ Mr. Secretary, we need to leave now.
 291
 00:11:38,360 --> 00:11:39,439
 ...motorcade to smoke out any ambush.
+motorcade : 자동차행렬 ambush:매복공,기습
 
 292
 00:11:39,463 --> 00:11:40,997
@@ -1328,6 +1336,7 @@ It's confirmed.
 300
 00:12:36,153 --> 00:12:37,988
 Eagle is gone.
+Eagle: VIP의 암호명
 
 301
 00:12:38,022 --> 00:12:40,457
@@ -1337,6 +1346,7 @@ Eagle is gone.
 302
 00:12:40,491 --> 00:12:42,492
 None of them made it.
+make it : 살아남다
 
 303
 00:12:42,526 --> 00:12:45,061
@@ -1350,11 +1360,13 @@ I'll let him know.
 00:12:49,166 --> 00:12:52,302
 Mr. Secretary, we're enacting
 continuity of government.
+enact:(법의)시행
 
 306
 00:12:52,336 --> 00:12:55,305
 A D.C. appellate judge
 will meet us at the White House.
+appellate judge : 상소심 판사
 
 307
 00:12:55,339 --> 00:12:59,476
