@@ -22,6 +22,7 @@ when history makes us.
 6
 00:00:39,104 --> 00:00:41,639
 This is a crucial moment for our nation,
+crucial moment :
 
 7
 00:00:41,673 --> 00:00:44,074
@@ -271,7 +272,7 @@ and their fathers and...
 63
 00:02:49,167 --> 00:02:50,601
 That's weird.
-이상하네
+
 
 64
 00:02:54,754 --> 00:02:56,751
@@ -322,6 +323,7 @@ Secretary:장관
 74
 00:03:12,324 --> 00:03:13,301
 We've lost contact with the Capitol.
+the Capitol : 국회의사당
 
 75
 00:03:13,325 --> 00:03:14,895
@@ -553,6 +555,7 @@ Unfortunately.
 128
 00:05:39,504 --> 00:05:41,438
 Hey, I'm slaving over here.
+내가 열심히 하고 있잖아.
 
 129
 00:05:41,473 --> 00:05:42,806
@@ -636,6 +639,7 @@ Okay, now I really want to know.
 147
 00:06:10,468 --> 00:06:12,569
 He's laying down a new dubstep track,
+dubstep : A genre of electronic music
 
 148
 00:06:12,604 --> 00:06:14,124
@@ -684,6 +688,7 @@ Bye, Mommy.
 158
 00:06:35,159 --> 00:06:36,460
 Make us proud.
+잘하고 와
 
 159
 00:06:38,863 --> 00:06:41,498
@@ -699,6 +704,7 @@ all he wants tonight...
 00:06:43,868 --> 00:06:46,970
 This Congress isn't gonna
 lift a finger to help him.
+Congress : 하원
 
 162
 00:06:48,110 --> 00:06:50,518
@@ -717,11 +723,13 @@ How about the end of days?
 00:06:53,011 --> 00:06:54,688
 I just spoke to Gillings
 at Cabinet Affairs.
+Cabinet : 내각
 
 166
 00:06:54,712 --> 00:06:56,557
 He slipped me a final copy
 of Richmond's address
+slip someone something : 슬쩍 찔러주다.
 
 167
 00:06:56,581 --> 00:06:59,021
@@ -735,6 +743,7 @@ You're kidding me.
 169
 00:07:00,151 --> 00:07:01,518
 Not even housing reform?
+housing reform : 주택 개혁
 
 170
 00:07:01,553 --> 00:07:03,487
@@ -744,6 +753,7 @@ All of it, everything you and I have
 00:07:03,521 --> 00:07:05,473
 worked our asses
 off on for months, gone.
+work one's ass off : 힘들게 일하다.
 
 172
 00:07:05,498 --> 00:07:06,124
@@ -775,6 +785,7 @@ leaking your plan to Politico
 00:07:14,999 --> 00:07:17,167
 - if this doesn't work.
 - No, that'll backfire.
+backfire : 역효과,맞불
 
 179
 00:07:17,201 --> 00:07:18,635
@@ -788,6 +799,7 @@ the State of the Union,
 181
 00:07:20,171 --> 00:07:21,204
 not what's not.
+그렇지 않은건 안돼.
 
 182
 00:07:21,239 --> 00:07:23,373
@@ -802,6 +814,7 @@ to our entire domestic agenda.
 00:07:24,909 --> 00:07:27,077
 You're the Secretary of Housing
 and Urban Development.
+주택도시개발 장관
 
 185
 00:07:27,111 --> 00:07:29,646
@@ -820,6 +833,7 @@ Okay, and I'll make my argument for it.
 188
 00:07:33,117 --> 00:07:34,094
 Look, don't get me wrong.
+get someone wrong : 오해하다
 
 189
 00:07:34,118 --> 00:07:35,763
@@ -839,6 +853,7 @@ We should remember that.
 00:07:39,958 --> 00:07:42,726
 All right. Then let's
 go see the Chief of Staff.
+Chief of Staff : 참모장, 수석보좌관
 
 193
 00:07:43,628 --> 00:07:44,805
@@ -871,6 +886,7 @@ a look at the AB-33 section,
 199
 00:07:52,637 --> 00:07:53,614
 okay? The message is muddled.
+muddled : 뒤죽박죽인 
 
 200
 00:07:53,638 --> 00:07:54,682
