@@ -1297,7 +1297,7 @@ Mr. Secretary, we need to leave now.
 291
 00:11:38,360 --> 00:11:39,439
 ...motorcade to smoke out any ambush.
-motorcade : 자동차행렬 ambush:매복공,기습
+motorcade : 자동차행렬 ambush:매복,기습
 
 292
 00:11:39,463 --> 00:11:40,997
