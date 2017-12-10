@@ -15,7 +15,11 @@ State of the Union: 연두교서. 연초 미대통령의 국정연설.
 dubstep track : A genre of electronic music 
 
 make us proud : used about someone who feels so proud that they think they are better than other people. 잘하고 와
-Congress : 하원 (the Senate : (미국의)상원)
+Congress : 미국 상/하원
+ - the Senate : 상원
+ - the House of Representatives : 하원
+ - 영국 의회 : Parliament
+ - 한국 의회 : National Assembly
 Cabinet : 내각
 slip someone something : 슬쩍 찔러주다.
 housing reform : 주택 개혁
@@ -32,4 +36,64 @@ all the trimmings (그밖에) 모두.
 pleasure : 의지,기호,기쁨,즐거움
 pleasure of the President. : 대통령의 의지
 play someone's game : 장단을 맞추다
+we'll make this work : 우린 해낼거야.
+made up one's mind : 
+motorcade :
+smoke out :
+ambush :
+appellate judge :
+live shot :
+secure comms : 
+embassies : 대사관 ?
+war footing :
+patch me into :
+throwing back :
+get through this : 헤쳐나가다
+turning to :
+Fat chance of that happening
+half a mind :
+tin : (미국 속어) 경찰관의 뱃지, 그릇, 은화,돈 
+perimeter : 둘레
+TSA : 교통안전부
+sniffers : 냄새 탐지기, 냄새 맡는 사람, 마약탐색견
+radiological : 
+EMS : 응급구조팀
+Haz-Mat :
+SIOC :
+Major : 소령
+beneath : 아래에, 지하에
+emergency session : 비상회의
+hard charging : 전속력으로 돌격
+stationed : 정박된
+station : 정박하다, 역, 정거장
+warfare : 전쟁, 교전
+deception : 속임, 기만
+with all due respect : 외람되지만, 
+bounce anyway : ?
+pinged : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
