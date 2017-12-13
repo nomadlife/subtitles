@@ -12,9 +12,9 @@ Secretary:장관
 the Capitol : 국회의사당
 Hey, I'm slaving over here. : 내가 열심히 하고 있잖아.
 State of the Union: 연두교서. 연초 미대통령의 국정연설.
-dubstep track : A genre of electronic music 
+dubstep track : 일렉 음악의 한 장르
 
-make us proud : used about someone who feels so proud that they think they are better than other people. 잘하고 와
+make us proud : 잘하고 와
 Congress : 미국 상/하원
  - the Senate : 상원
  - the House of Representatives : 하원
@@ -37,17 +37,17 @@ pleasure : 의지,기호,기쁨,즐거움
 pleasure of the President. : 대통령의 의지
 play someone's game : 장단을 맞추다
 we'll make this work : 우린 해낼거야.
-made up one's mind : 
-motorcade :
-smoke out :
-ambush :
-appellate judge :
-live shot :
-secure comms : 
-embassies : 대사관 ?
-war footing :
-patch me into :
-throwing back :
+made up one's mind : 마음의 결정을 하다
+motorcade : 자동차 행렬, 카퍼레이드
+smoke out : 연기를 피워 몰아내다
+ambush : 매복
+appellate judge : 상소(항소)심 판사
+live shot : 생중계
+secure comms : 보안회선
+embassy : 대사관
+war footing : 전시 편성, 전쟁 준비
+patch me into : 이어맞추다, 연결하다.
+throwing back : 
 get through this : 헤쳐나가다
 turning to :
 Fat chance of that happening
@@ -56,10 +56,10 @@ tin : (미국 속어) 경찰관의 뱃지, 그릇, 은화,돈
 perimeter : 둘레
 TSA : 교통안전부
 sniffers : 냄새 탐지기, 냄새 맡는 사람, 마약탐색견
-radiological : 
+radiological : 방사선 물질의
 EMS : 응급구조팀
-Haz-Mat :
-SIOC :
+Haz-Mat : 위험물 처리반 ?
+SIOC : 전략정보작전센터 ?
 Major : 소령
 beneath : 아래에, 지하에
 emergency session : 비상회의
@@ -69,12 +69,42 @@ station : 정박하다, 역, 정거장
 warfare : 전쟁, 교전
 deception : 속임, 기만
 with all due respect : 외람되지만, 
-bounce anyway : ?
-pinged : 
-
-
-
-
+bounce : 반품 ?
+pinged : (통신망으로)추적하다
+mastermind : 대가, 지도자, 두목, 머리가 좋은
+staffer : 직원, 국원
+intelligence source : 정보 기관 소식통
+tight-lipped : 입을 굳게 다문
+PEOC : 	벙커 ? 
+code-word clearance : 비밀 취급 인가
+pissing contest : 싸움, 말다툼
+swift : 신속한
+flag is still flying strong : 여전히 건재하다
+figurehead : 명목상의 우두머리, 표명상의 대표, 얼굴
+engage : 교전하다, 관여하다, 보증하다
+NSA : 국가안보국, National Security Agency.
+UXO : 불발탄, unexploded ordnance
+hemostat : 겸자(수술등에 쓰이는 집게의 종류), 지혈제
+sincere sympathy : 심심한 위로
+cowardice : 비겁
+rest assured : 안심하고 있다
+war-game : 전쟁 연습, 모의 실전
+green light : 청신호, 정식 허가, 승인
+straight a shooter : 직선적인, 직설적인
+Commander in Chief : 총사령관, 최고사령관
+comply : 따르다, 동의하다
+IED : 급조 폭발물
+munition : 탄약, 무기, 군수품
+off the charts : 기대치 밖의, 예상밖의
+counterattacks : 역습, 반격
+crowing : (적을)이겨서 자랑하다, 환성을 지르다
+you look the part : 그일을 하는 사람처럼 적합해 보인다.
+treading : 아주 가까운것?
+tread : 밟다, 가다, 으깨다
+commit treason :반역을 꾸미다.
+treason : 반역
+definitively : 명확하게
+presidential : 대통령의
 
 
 
