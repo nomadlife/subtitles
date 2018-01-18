@@ -1,6 +1,6 @@
 ponder
-sprawling
 sprawl
+terrace
 tread
 jar
 gait
@@ -10,16 +10,12 @@ loom
 orb
 brocade
 sherwani
-comical
 curling
-Salvador Dali
-Salvador Dalí
 mustache
 peruse
 stiffly
 advance
 waistcoat
-advancing
 regimen
 haste
 dashing
@@ -28,17 +24,17 @@ lapel
 glisten
 exploration
 drip
-hieronymus
+Hieronymus Bosch
 classicist
 grin
+last-minute
 bravado
-mop
+Mop-haired
 semiotic
 eerie
 knack
-prognostication
 prognosticate
-stemmed
+stem from ~
 insatiable
 bibliophile
 eccentric
@@ -61,20 +57,17 @@ vaguely
 glimmering
 bizarre
 elongated
-elongate
 hallucination
 swirling
-swirl
 collage
 warped
 prop
-draped
+drape
 glint
 extraterrestrial
 leviathan
 crawl
 hail
-undulating
 undulate
 cloak
 gush
@@ -82,7 +75,6 @@ Mercurial
 brilliance
 feat
 deconstructivist
-deconstructivism
 postmodern
 Munich
 alma mater
@@ -91,19 +83,17 @@ facade
 morph
 adrift
 lagoon
-lapped
 lap
+marvel
 set out
 footbridge
 dissipated
 hissing
-dissipate
 creeping
 ethereal
 disorient
 tranquil
 laden
-mist
 brilliant
 ominous
 reptilian
