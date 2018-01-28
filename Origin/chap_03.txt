@@ -5,7 +5,7 @@ vaulted
 blazed
 catwalk
 traverse
-acoustic
+acoustics
 reverent
 hush
 murmur
@@ -44,11 +44,8 @@ avid
 despise
 intimate
 immersive
-immerse
-immersion
 logistics
 cacophony
 antisocial
-emblazoned
 emblazon
 
