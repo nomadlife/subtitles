@@ -26,7 +26,6 @@ caliber
 nonetheless
 assault
 lunatic
-elucidations
 elucidation
 delve
 midrash
@@ -34,12 +33,12 @@ venerate
 exegete
 manifest
 sephirot
-sephirothic
 arcane
 contemplate
 repercussions
 revelation
 boldly
+contradict
 distressing
 pious
 publicize
@@ -56,5 +55,5 @@ scoff
 with all due respect
 defuse
 anxious
-seized
+seize
 
