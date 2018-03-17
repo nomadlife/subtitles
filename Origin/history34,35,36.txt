@@ -1,4 +1,20 @@
-﻿prop
+﻿empower
+empowering
+rumbling
+rumblings
+orthodoxy
+vicar
+audience
+purposeless
+nun
+nuns
+mass
+eyed
+shuffle
+shuffled
+excruciate
+excruciating
+prop
 heave
 heaved
 God helps those who help themselves
@@ -27,7 +43,6 @@ anguish
 wage
 claimed
 salvation
-nun
 purgatory
 rubble
 altar
