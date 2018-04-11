@@ -1,20 +1,15 @@
 hewn
-billowing
 billow
 limestone
-swerving
 swerve
-shunned
 shun
 laud
 commission
 covet
 grandest
-grand
 cinder
 cinder block
 sheepishly
-sheepish
 preamble
 reverent
 homage
@@ -22,7 +17,6 @@ bereft
 conjure
 claustrophobic
 crystal-clear
-spooning
 spoon
 tarp
 tarpaulin
@@ -34,5 +28,4 @@ proficiency
 praise
 allusion
 jeopardy
-mystification
 mystify

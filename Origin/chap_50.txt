@@ -2,7 +2,6 @@ sidearm
 long-overdue
 overdue
 infraction
-milking
 milk
 ticker tape
 crawl
@@ -17,13 +16,11 @@ adage
 intrigue
 speculation
 episcopal
-hyped
 hype
 jog
 practically
 second
 study
-tampered
 tamper
 stub
 acolyte
