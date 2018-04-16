@@ -1,7 +1,4 @@
-cardinal
-consecrate
-schismatic
-rant
+﻿rant
 exasperate
 innocuous
 resort
